@@ -1,0 +1,23 @@
+/*@page{*/
+/*    width:auto;*/
+/*    height:auto;*/
+/*    position:relative;*/
+/*    margin:0 auto;*/
+/*    overflow:hidden;*/
+/*}*/
+/*@page svg{*/
+/*    width:1500px;*/
+/*    height:1500px;*/
+/*}*/
+/*@page svg circle{display:block;}*/
+/*@page div{font-size:14px;line-height:18px;color:#000;font-size: Arial;}*/
+
+
+/*circle {*/
+/*    transform-origin: center center;*/
+/*}*/
+
+/*circle:hover {*/
+/*    stroke-width: 10px;*/
+/*    transform:scale(1.2, 1.2);*/
+/*}*/
